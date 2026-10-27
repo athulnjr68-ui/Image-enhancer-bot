@@ -4,7 +4,7 @@ from PIL import Image, ImageEnhance
 from flask import Flask, request
 
 TOKEN = "8949947641:AAGG-NjBDzFnxDKAlKx8rYZ_xIaVvdlB_Kk"
-APP_URL = https://image-enhancer-bot-1.onrender.com
+APP_URL = "https://image-enhancer-bot-1.onrender.com
 
 bot = telebot.TeleBot(TOKEN)
 server = Flask(__name__)
